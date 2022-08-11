@@ -25,8 +25,8 @@ title: Wyn Son                          # the main title
 
 tagline: Security Researcher|Security Engineer|Bug Hunter|KMAer   # it will display as the sub-title
 
-description: >- A personal blog of Wyn Son.                       # used by seo meta and the atom feed
-  
+description: >-                        # used by seo meta and the atom feed
+  A personal blog of Wyn Son.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''

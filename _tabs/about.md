@@ -9,6 +9,7 @@ Hi! I’m Quyen Son.
 
 # Work Experience
 09/2021 -> Now: Application Security Engineer/ Pentester at FPT Software Cyber Security Assurance Service x Mitsui Busan Secure Direction
+
 Assess the security of websites, API endpoints, mobile applications (black box/grey box/white box)
 Development of offensive, audit and analysis tools.
 

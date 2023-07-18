@@ -32,23 +32,23 @@ description: >-                        # used by seo meta and the atom feed
 url: ''
 
 github:
-  username: Wynson             # change to your github username
+  username: zh0ngs0n1337             # change to your github username
 
 twitter:
-  username: Wynson2k            # change to your twitter username
+  username: Zh0ngs0n            # change to your twitter username
 
 social:
   # Quyền Sơn.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Wynson2k
-  email: son.pentest2k@gmail.com             # change to your email address
+  name: Zh0ngs0n
+  email: sonqh.kma@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Wynson2k      # change to your twitter homepage
-    - https://github.com/Wynson       # change to your github homepage
+    - https://twitter.com/Zsh1337      # change to your twitter homepage
+    - https://github.com/Zh0ngS0n1337       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/Wynson2k
-    - https://www.linkedin.com/in/Wynson2k
+    - https://www.facebook.com/Zsh1337
+    - https://www.linkedin.com/in/zh0ngs0n1337/
 
 google_site_verification:               # fill in to your verification string
 

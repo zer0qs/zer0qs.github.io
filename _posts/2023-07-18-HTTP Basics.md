@@ -1,7 +1,7 @@
 ---
 title: HTTP Basics
 date: 2023-07-11 01:02:03 +0700
-categories: [Web Security, Bug Bounty]
+categories: [Bug Bounty, Bug Bounty Beginners]
 tags: [bugbounty]
 ---
 

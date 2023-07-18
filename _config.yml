@@ -21,9 +21,9 @@ timezone: Asia/Ho_Chi_Minh
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Wyn Son                          # the main title
+title: Byp4ss3r                          # the main title
 
-tagline: Security Researcher|Security Engineer|Bug Hunter|KMAer   # it will display as the sub-title
+tagline: Application Security Engineer|Bug Hunter|KMAer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A personal blog of Wyn Son.

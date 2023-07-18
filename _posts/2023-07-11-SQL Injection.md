@@ -1,0 +1,8 @@
+---
+title: SQL Injection(SQLi)
+date: 2023-07-11 01:02:03 +0700
+categories: [Web Security, Vulnerabilities]
+tags: [bugbounty]
+---
+
+Để đây để viết  đúng deadline =))
